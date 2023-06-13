@@ -6,7 +6,7 @@
   <link href="https://hokis.github.io/atom.xml" rel="self"/>
   
   <link href="https://hokis.github.io/"/>
-  <updated>2023-06-02T15:18:14.000Z</updated>
+  <updated>2023-06-13T16:18:23.000Z</updated>
   <id>https://hokis.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>梦中的婚礼</title>
+    <link href="https://hokis.github.io/2023/06/14/%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%A9%9A%E7%A4%BC/"/>
+    <id>https://hokis.github.io/2023/06/14/%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%A9%9A%E7%A4%BC/</id>
+    <published>2023-06-13T16:18:23.000Z</published>
+    <updated>2023-06-13T16:18:23.000Z</updated>
+    
+    
+    <summary type="html">梦中的婚礼</summary>
+    
+    
+    
+    <category term="生活随笔" scheme="https://hokis.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="梦" scheme="https://hokis.github.io/tags/%E6%A2%A6/"/>
+    
+    <category term="她" scheme="https://hokis.github.io/tags/%E5%A5%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>好月当空</title>
@@ -151,9 +172,9 @@
     <category term="生活随笔" scheme="https://hokis.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="她" scheme="https://hokis.github.io/tags/%E5%A5%B9/"/>
-    
     <category term="梦" scheme="https://hokis.github.io/tags/%E6%A2%A6/"/>
+    
+    <category term="她" scheme="https://hokis.github.io/tags/%E5%A5%B9/"/>
     
   </entry>
   
