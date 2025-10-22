@@ -6,7 +6,7 @@
   <link href="https://hokis.github.io/atom.xml" rel="self"/>
   
   <link href="https://hokis.github.io/"/>
-  <updated>2025-02-18T15:28:53.000Z</updated>
+  <updated>2025-10-22T16:25:07.000Z</updated>
   <id>https://hokis.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>风乍起</title>
+    <link href="https://hokis.github.io/2025/10/23/%E9%A3%8E%E4%B9%8D%E8%B5%B7/"/>
+    <id>https://hokis.github.io/2025/10/23/%E9%A3%8E%E4%B9%8D%E8%B5%B7/</id>
+    <published>2025-10-22T16:25:07.000Z</published>
+    <updated>2025-10-22T16:25:07.000Z</updated>
+    
+    
+    <summary type="html">秋风乍起</summary>
+    
+    
+    
+    <category term="生活随笔" scheme="https://hokis.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="秋风" scheme="https://hokis.github.io/tags/%E7%A7%8B%E9%A3%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>我知</title>
@@ -390,27 +409,6 @@
     <category term="她" scheme="https://hokis.github.io/tags/%E5%A5%B9/"/>
     
     <category term="晚餐" scheme="https://hokis.github.io/tags/%E6%99%9A%E9%A4%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>来日方长</title>
-    <link href="https://hokis.github.io/2023/02/07/%E6%9D%A5%E6%97%A5%E6%96%B9%E9%95%BF/"/>
-    <id>https://hokis.github.io/2023/02/07/%E6%9D%A5%E6%97%A5%E6%96%B9%E9%95%BF/</id>
-    <published>2023-02-07T00:50:29.000Z</published>
-    <updated>2024-06-06T02:11:57.000Z</updated>
-    
-    
-    <summary type="html">来日方长</summary>
-    
-    
-    
-    <category term="生活随笔" scheme="https://hokis.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="她" scheme="https://hokis.github.io/tags/%E5%A5%B9/"/>
-    
-    <category term="故事" scheme="https://hokis.github.io/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
